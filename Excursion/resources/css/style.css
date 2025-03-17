@@ -27,11 +27,7 @@ body {
     color: gray;
 }
 
-.image--camp {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
+
 
 .footer--name {
     font-size: 16px;
