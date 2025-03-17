@@ -13,5 +13,16 @@ body {
 .link--cta {
     font-size: 16px;
     color:aquamarine;
-    
+
+}
+
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color:white;
+}
+
+.sub-header--secondary {
+    font-size: 21px;
+    color: gray;
 }
