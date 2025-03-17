@@ -27,15 +27,20 @@ body {
     color: gray;
 }
 
-
-
-.footer--name {
-    font-size: 16px;
-    color: gray;
-    text-align:right;
+/*Images styling*/
+img {
+    display: block;
+    margin: 5px auto;
 }
 
 .header--tertiary {
     font-size: 32px;
     color: white;
 }
+
+footer {
+    font-size: 16px;
+    color: gray;
+    text-align:right;
+}
+
